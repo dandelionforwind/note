@@ -14,4 +14,8 @@ public class UserController {
 
         return "wzcc";
     }
+    private int getAge(){
+
+        return 1;
+    }
 }
